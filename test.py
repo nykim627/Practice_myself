@@ -6,3 +6,8 @@ grade = input("학년을 입력하세요: ")
 print("\n<출력>\n이름: ",name,
 "\n학번: ",number, "\n학과: ",major,
 "\n학년: ",grade)
+school = input("학교를 입력하세요: ")
+
+print("\n<출력>\n이름: ",name,
+"\n학번: ",number, "\n학과: ",major,
+"\n학교: ",school)
